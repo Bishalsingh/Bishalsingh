@@ -1,4 +1,4 @@
-[![Bishal's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+[![Bishal's GitHub Banner](./assets/GitHubHeader.png)](https://bishalsingh.com.np)
 <h1 align="center">Hi 🖐 I'm Bishal</h1>
 <h3 align="center">A passionate Mobile Application Engineer from 🇳🇵</h3>
 
