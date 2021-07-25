@@ -1,4 +1,4 @@
-[![Bishal's GitHub Banner](./bihsalcover.jpg)](https://bishalsingh.com.np)
+[![Bishal's GitHub Banner](./bisahlcover.jpg)](https://bishalsingh.com.np)
 <h1 align="center">Hi 🖐 I'm Bishal</h1>
 <h3 align="center">A passionate Mobile Application Engineer from 🇳🇵</h3>
 
