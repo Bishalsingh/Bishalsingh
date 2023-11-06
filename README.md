@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Notik Offerwall](https://notik.me/)
 
-- 🌱 I’m currently learning **Flutter Desktop Application**
+- 🌱 I’m currently Building Apps with **Flutter Desktop Application**
 
 - 👨‍💻 All of my projects are available at [https://www.bishalsingh.com.np](https://www.bishalsingh.com.np)
 
