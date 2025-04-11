@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishalsingh" alt="bishalsingh" /></a> </p>
 
-- 🔭 I’m currently working on [Notik Offerwall](https://notik.me/)
+- 🔭 I’m currently working as a Freelancer and working on my blockchain thesis
 
 - 🌱 I’m currently Building Apps with **Flutter Desktop Application**
 
